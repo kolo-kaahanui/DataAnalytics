@@ -1,4 +1,4 @@
 # Portfolio Overview
 
-Project1 - Volcano Cleaning
-Project2 - Titanic Logistic Regression
+- Project1: Volcano Data Cleaning
+- Project2: Titanic Logistic Regression
