@@ -4,3 +4,4 @@
 - Project2: Logistic Titanic
 - Project3: Text Summarization
 - Project4: MNIST Classification (Deep Learning)
+- Project5: Simple Unsupervised Learning
