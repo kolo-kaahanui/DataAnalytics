@@ -7,3 +7,5 @@
 - Project5: Simple Unsupervised Learning
 - Project6: Reversing Conways' Game of Life
 - Project7: Hawaiian Stopwords
+- Project8: Viame's Frame Level Classifier on MNIST
+
