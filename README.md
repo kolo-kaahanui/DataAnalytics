@@ -9,4 +9,5 @@
 - Project7: Hawaiian Stopwords
 - Project8: Viame's Frame Level Classifier on MNIST
 - Project9: Risk Analytics Project
+- Project10: Visualizations Project
 
